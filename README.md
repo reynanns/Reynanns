@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xi6njnrqvcpuqz6f6meu3g7scu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 <!--
 **reynanns/Reynanns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
