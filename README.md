@@ -11,8 +11,7 @@
   <font color="#9E3E1B">☆ ESTP * 7w6 ^_^ , my agents : @REVERISTCALICO , @constrz</b>
   
   <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xi6njnrqvcpuqz6f6meu3g7scu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" width="450" align="center"
   </a>
 </p>
 
