@@ -7,10 +7,10 @@
 
 <p align="center">
   <font color="#F0A248">☆ The Mentalist , * me ! known as Rɔsɛ</b></font> 
-  
+  <p align="center">
   <font color="#9E3E1B">☆ ESTP * 7w6 ^_^ , my agents : @REVERISTCALICO , @constrz</b>
   
-  <p align="center">
+  <p align="left6">
     <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" width="450" align="center"
   </a>
 </p>
