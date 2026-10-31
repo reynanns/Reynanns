@@ -8,7 +8,7 @@
 <p align="center">
   <font color="#F0A248">☆ The Mentalist , * me ! known as Rɔsɛ</b></font> 
   
-  <font color="#9E3E1B">☆ ESTP * 7w6 ^_^ , my agents : @REVERISTCALICO , @constrz</b>/font>
+  <font color="#9E3E1B">☆ ESTP * 7w6 ^_^ , my agents : @REVERISTCALICO , @constrz</b>
   
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
