@@ -1,22 +1,21 @@
-<!-- 1. TOP & MIDDLE SECTION: Floating Images & Bio Text -->
 <div>
-  <!-- Large Character Image (Stays on the far right) -->
-  <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" align="right" width="220" style="margin-left: 20 px; margin-bottom: 10 px;" />
+  <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" width="250" align="right" alt="Top Left Image">
+  <img 
+    <!-- Right Column: Your custom text and the other graphics -->
+    <h2 align="center">
+      <font color="#9E3E1B">Patrick Jane</font></h2>
 
-  <!-- Main Headers -->
-  <h1>Patrick Jane</h1>
-  <p>⭐ The Mentalist, <i>me ! known as R𖦹se</i></p>
-  <p>☘ ESTP * 7w6 ^_^, my agents: @REVERISTCALICO , @constrz</p>
+<p align="center">
+  <font color="#F0A248">☆ The Mentalist , * me ! known as Rɔsɛ</b></font> 
+  <p align="center">
+  <font color="#9E3E1B">☆ ESTP * 7w6 ^_^ , my agents : @REVERISTCALICO , @constrz</b>
+  
+  <p align="left6"> 
+   ㅤㅤㅤㅤ <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" width="450" align="center" 
+  </a>
+</p>
+ㅤㅤㅤ</div> <a href="https://rosenrose.atabook.org/">   
+<img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" width="200" align="right" alt="Link Image" style="margin-top: 10 px;"> 
+</a>
 
-  <!-- Bottom-Right Link Image (Shifted up by floating right right after the intro text) -->
-  <a href="https://rosenrose.atabook.org/?page=1">
-  <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" align="right" width="150" style="margin-left: 20 px; clear: right; margin-top: 15 px;" />
-
-<!-- Clear the floats so the song card goes completely underneath everything -->
 <br clear="both">
-
-<!-- 2. BOTTOM SECTION: Centered Song Card -->
-<div align="center">
-  <br>
-  <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" width="320" />
-</div>
