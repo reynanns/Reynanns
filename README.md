@@ -25,7 +25,7 @@
  <!-- RIGHT SIDE COLUMN -->
     <td valign="top">
       <!-- Character standee stays on top on the right side -->
-      <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" alt="Patrick Jane Standee" />
+      <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" alt="Patrick Jane Standee" width="4676" />
     </td>
   </tr>
 </table>
