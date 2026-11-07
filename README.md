@@ -4,7 +4,7 @@
     <td valign="top">
       <h1 align="center">Patrick Jane</h1>
      ㅤㅤㅤㅤ
-      <p style="text-align: center; color: crimson;">Your<p>⭐ The Mentalist, me ! known as R𖦹se</p>
+      <p align="center" color: crimson;">⭐ The Mentalist, me ! known as R𖦹se</p>
 
   <p align="center">♤ ESTP * 7w6 ^_^, my agents: @REVERISTCALICO, @constrz</p>
       <br>
