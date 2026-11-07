@@ -3,7 +3,7 @@
     <!-- LEFT SIDE COLUMN -->
     <td valign="top">
       <h1 align="center">Patrick Jane</h1>
-     ㅤㅤㅤㅤㅤ<p align="center">☆ The Mentalist, me / known as Rose</p>
+     ㅤㅤㅤㅤ$\color{crimson}{\text{ㅤ<p align="center">☆ The Mentalist, me / known as Rose }}$
 
   <p align="center">♤ ESTP * 7w6 ^_^, my agents: @REVERISTCALICO, @constrz</p>
       <br>
