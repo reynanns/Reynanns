@@ -3,9 +3,9 @@
     <!-- LEFT SIDE COLUMN -->
     <td valign="top">
       <h1 align="center">Patrick Jane</h1>
-     ㅤㅤㅤㅤㅤ<p align="center">⭐ The Mentalist, me / known as Rose</p>
+     ㅤㅤㅤㅤㅤ<p align="center">☆ The Mentalist, me / known as Rose</p>
 
-  <p align="center">☘️ ESTP * 7w6 ^_^, my agents: @REVERISTCALICO, @constrz</p>
+  <p align="center">♤ ESTP * 7w6 ^_^, my agents: @REVERISTCALICO, @constrz</p>
       <br>
       <p align="center">` ` ` Et Voila ! ☆ ...</p>
        <!-- Sub-table to put the Song Card and Bottom-Right Image next to each other -->
@@ -17,7 +17,7 @@
           </td>
           <td valign="bottom">
            <a href="https://rosenrose.atabook.org/?page=1">
-            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="220" />
+            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="150" />
           </td>
         </tr>
       </table>
