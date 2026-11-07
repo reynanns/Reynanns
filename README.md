@@ -3,7 +3,7 @@
     <!-- LEFT SIDE COLUMN -->
     <td valign="top">
      <h1>
-      <div align="center"> $\color{#DB2A13}{\text{ᴘᴀᴛʀɪᴄᴋ ᴊᴀɴᴇ}}$</div>
+      <div align="center"> $\color{#A93C0D}{\text{ᴘᴀᴛʀɪᴄᴋ ᴊᴀɴᴇ}}$</div>
      </h1>
  <div align="center"> $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
 <div align="center"> $\color{#FFB067}{\text{  ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
