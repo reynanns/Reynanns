@@ -2,11 +2,10 @@
   <tr>
     <!-- LEFT SIDE COLUMN -->
     <td valign="top">
-      <h1 align="center">
-  <span style="color: #FF5733;">ᴘᴀ</span><span style="color: #;">ᴛʀ</span>ɪᴄᴋ ᴊᴀɴᴇ
-</h1>
-     ㅤㅤㅤㅤ
-      $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
+     <h1>
+      <div align="center"> $\color{#FF5733}{\text{ᴘᴀᴛʀɪᴄᴋ ᴊᴀɴᴇ}}$</div>
+     </h1>
+ <div align="center"> $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
 <div align="center"> $\color{#FFB067}{\text{  ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
       <br>
 <div align="center"> $\color{#FFD99C}{\text{` ` ` et  Voila . . . !}}$</div>
