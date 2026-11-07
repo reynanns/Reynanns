@@ -12,12 +12,12 @@
       <table>
         <tr>
           <td valign="bottom">
-              <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" alt="Jane! The Long Faces" width="150 />
+              <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" alt="Jane! The Long Faces" width="190 />
             </a>
           </td>
           <td valign="bottom">
            <a href="https://rosenrose.atabook.org/?page=1">
-            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="120" />
+            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="160" />
           </td>
         </tr>
       </table>
