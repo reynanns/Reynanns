@@ -12,12 +12,12 @@
       <table>
         <tr>
           <td valign="bottom">
-              <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" alt="Jane! The Long Faces" width="100 />
+              <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" alt="Jane! The Long Faces" width="150 />
             </a>
           </td>
           <td valign="bottom">
            <a href="https://rosenrose.atabook.org/?page=1">
-            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="100" />
+            <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" alt="Sticker" width="120" />
           </td>
         </tr>
       </table>
@@ -25,7 +25,7 @@
  <!-- RIGHT SIDE COLUMN -->
     <td valign="top">
       <!-- Character standee stays on top on the right side -->
-      <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" alt="Patrick Jane Standee" width="270" />
+      <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled5_20261030221643.png" alt="Patrick Jane Standee" width="200" />
     </td>
   </tr>
 </table>
