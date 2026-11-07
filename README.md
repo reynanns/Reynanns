@@ -5,7 +5,7 @@
       <h1 align="center">Patrick Jane</h1>
      ㅤㅤㅤㅤ
       $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
-<div align="center">  $\color{#FFB067}{\text{ <p align="center"> ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
+<div align="center"> $\color{#FFB067}{\text{  ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
       <br>
       <p align="center">` ` ` et  <mark>Voila !</mark> 
        <!-- Sub-table to put the Song Card and Bottom-Right Image next to each other -->
