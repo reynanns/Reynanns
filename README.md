@@ -14,9 +14,7 @@
    ㅤㅤㅤㅤ <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031161836.png" width="450" align="center" 
   </a>
 </p>
-ㅤ
-
-ㅤㅤ</div> <a href="https://rosenrose.atabook.org/">   
+ㅤㅤㅤ</div> <a href="https://rosenrose.atabook.org/">   
 <img src="https://file.garden/auSdALBapyS3KiCZ/Untitled7_20261031004708.png" width="200" align="right" alt="Link Image" style="margin-top: 10 px;"> 
 </a>
 
