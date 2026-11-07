@@ -7,7 +7,7 @@
       $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
 <div align="center"> $\color{#FFB067}{\text{  ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
       <br>
-<div align="center"> $\color{#FFD99C}{\text{` ` ` et  <mark>Voila !</mark> </div>
+<div align="center"> $\color{#FFD99C}{\text{` ` ` et  <mark>Voila !</mark> }}$</div>
        <!-- Sub-table to put the Song Card and Bottom-Right Image next to each other -->
       <table>
         <tr>
