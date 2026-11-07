@@ -2,7 +2,7 @@
   <tr>
     <!-- LEFT SIDE COLUMN -->
     <td valign="top">
-      <h1 align="center">Patrick Jane</h1>
+      <h1 align="center">ᴾᵃᵗʳⁱᶜᵏ ᴶᵃⁿᵉ</h1>
      ㅤㅤㅤㅤ
       $\color{#FF6E2C}{\text{⭐ The Mentalist, me ! known as R𖦹se}}$
 <div align="center"> $\color{#FFB067}{\text{  ESTP * 7w6 ○.○ , my agents: @REVERISTCALICO, @constrz}}$</div>
